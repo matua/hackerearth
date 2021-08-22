@@ -1,1 +1,1 @@
-Here I post my beginner's attempt's to solutions on hackerearth
+Here I post my beginner's attempts to solutions on hackerearth
